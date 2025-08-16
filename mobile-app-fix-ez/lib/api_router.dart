@@ -1,6 +1,6 @@
 class RoutingBase {
   //static const ApiUrl = "http://ec2-13-235-241-130.ap-south-1.compute.amazonaws.com:8080/api";
-  static const ApiUrl = "http://192.168.31.62:8080/api";
+  static const ApiUrl = "http://192.168.31.62:8180/api/v/1.1";
 }
 
 class RoutingBalance extends RoutingBase{
