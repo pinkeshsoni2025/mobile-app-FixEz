@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "category_id": "101",
+        "category": "Electronic",
+        "sub_category": "switches-wire,ac-cooler, chimney, refrigerator",
+        "total_customer":11700,
+        "total_raiting":45500,
+        "feedbacks": [
+            {
+                "rating": 4,
+                "message": "nice but still improvement required",
+                "name": "pinkesh",
+                "created_at": "2025-04-11 11:05:11.679040"
+            },
+            {
+                "rating": 4,
+                "message": "FixEz are really good at focusing on what customers need and require. You have a real instinct to understand our customers. Good work!",
+                "name": "neelam",
+                "created_at": "2025-04-12 05:52:11.679040"
+            },
+            {
+                "rating": 4,
+                "message": "FixEz natural ability to understand and feel what your customers are experiencing, and you are able to meet their needs effectively. Well done!",
+                "name": "Smith",
+                "created_at": "2025-04-13 15:02:11.679040"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "category_id": "102",
+        "category": "Plumber",
+        "sub_category": "Linkage,Pipe clean,Maintain pipes,New installation",
+        "total_customer":9700,
+        "total_raiting":40000,
+        "feedbacks": [
+            {
+                "rating": 4,
+                "message": "FixEz natural ability to understand and feel what your customers are experiencing, and you are able to meet their needs effectively. Well done!",
+                "name": "Mansukh",
+                "created_at": "2025-04-11 11:05:11.679040"
+            },
+            {
+                "rating": 5,
+                "message": "FixEz are really good at focusing on what customers need and require. You have a real instinct to understand our customers. Good work!",
+                "name": "Roshan",
+                "created_at": "2025-04-13 15:02:11.679040"
+            },
+            {
+                "rating": 4,
+                "message": "FixEz building rapport with everyone you come in contact work. This is a great customer service skill to possess.",
+                "name": "neelam",
+                "created_at": "2025-04-13 15:09:21.679040"
+            }
+        ]
+    }
+]

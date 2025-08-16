@@ -1,0 +1,65 @@
+[
+    {
+      "category": "Getting Started",
+      "faqs": [
+        {
+          "question": "How do I sign up?",
+          "answer": "Open the app and tap on 'Create Account'. You can register using your mobile number or email."
+        },
+        {
+          "question": "Can I use the app on Android and iOS?",
+          "answer": "Yes! Easy Fix is available on both Google Play Store and Apple App Store."
+        }
+      ]
+    },
+    {
+      "category": "My Account",
+      "faqs": [
+        {
+          "question": "How can I reset my password?",
+          "answer": "Tap on 'Forgot Password' on the login screen. Follow the instructions sent to your email."
+        },
+        {
+          "question": "How do I update my profile?",
+          "answer": "Go to Profile > Edit and update your name, phone number, or profile picture."
+        }
+      ]
+    },
+    {
+      "category": "Booking Services",
+      "faqs": [
+        {
+          "question": "How do I book a service?",
+          "answer": "Choose a service from the home screen, enter your details, and tap 'Book Now'."
+        },
+        {
+          "question": "Can I cancel a booking?",
+          "answer": "Yes, go to My Bookings > Tap on the booking > Cancel."
+        }
+      ]
+    },
+    {
+      "category": "Payments",
+      "faqs": [
+        {
+          "question": "What payment methods are accepted?",
+          "answer": "We support UPI, credit/debit cards, net banking, and wallet payments."
+        },
+        {
+          "question": "How do I request a refund?",
+          "answer": "Go to the booking details screen and click on 'Request Refund'."
+        }
+      ]
+    },
+    {
+      "category": "Contact Support",
+      "faqs": [
+        {
+          "question": "How do I contact support?",
+          "answer": "You can reach us via in-app chat or email at support@fixez.com."
+        }
+      ]
+    }
+  ]
+
+  

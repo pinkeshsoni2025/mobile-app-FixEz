@@ -1,0 +1,82 @@
+{
+    "records": [
+        {
+            "id": "101",
+            "name": "Electronic",
+            "icon": "0xe7de",
+            "sub_category": [
+                "Chimney",
+                "Refrigerator",
+                "AC",
+                "Cooler",
+                "Fan",
+                "Water Pump",
+                "Washing machine",
+                "Mixture",
+                "Switches and wire"
+            ]
+        },
+        {
+            "id": "102",
+            "name": "Plumber",
+            "icon": "0xe4d5",
+            "sub_category": [
+                "Linkage",
+                "Pipe clean",
+                "Maintain pipes",
+                "New installation"
+            ]
+        },
+        {
+            "id": "103",
+            "name": "Elevation",
+            "icon": "0xe090",
+            "sub_category": [
+                "Door",
+                "Window",
+                "Iron",
+                "Iron work",
+                "Aluminum",
+                "Glass"
+            ]
+        },
+        {
+            "id": "104",
+            "name": "Construction",
+            "icon": "0xf665",
+            "sub_category": [
+                "New Building",
+                "Repair",
+                "Elevation",
+                "Tiles",
+                "Repair"
+            ]
+        },
+        {
+            "id": "105",
+            "name": "Furniture",
+            "icon": "0xe7d5",
+            "sub_category": [
+                "Sofas",
+                "TV Panel",
+                "Kitchen",
+                "Living Room",
+                "Master Room"
+            ]
+        },
+        {
+            "id": "106",
+            "name": "Painting",
+            "icon": "0xe113",
+            "sub_category": [
+                "wall",
+                "Home",
+                "shop",
+                "office",
+                "door-window",
+                "iron",
+                "wood"
+            ]
+        }
+    ]
+}

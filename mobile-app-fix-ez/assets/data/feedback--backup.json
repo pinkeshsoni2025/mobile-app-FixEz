@@ -1,0 +1,70 @@
+[
+    {
+        "id": "1",
+        "location": "NY",
+        "phone": "7892341233",
+        "created_at": "03/20/2025 13:21:25 GMT+0530",
+        "updated_at": "03/22/2025 13:21:25 GMT+0530",
+        "created_by": "admin",
+        "updated_by": "john_doe2025",
+        "username": "john_doe2025",
+        "category": "Electronic",
+        "sub_category": "switches-wire,ac-cooler, chimney, refrigerator",
+        "description": "null",
+        "user_mode": "worker",
+        "feedbacks": [
+            {
+                "rating": "4",
+                "message": "nice but still improvement required",
+                "name": "pinkesh",
+                "mobile": "897867983"
+            },
+            {
+                "rating": "3",
+                "message": "good",
+                "name": "neelam",
+                "mobile": "8792392393"
+            },
+            {
+                "rating": "4",
+                "message": "good service",
+                "name": "neelam",
+                "mobile": "8792392393"
+            }
+        ]
+    },
+    {
+        "name": "Alling",
+        "location": "NY",
+        "phone": "7892341233",
+        "created_at": "03/20/2025 13:21:25 GMT+0530",
+        "updated_at": "03/22/2025 13:21:25 GMT+0530",
+        "created_by": "admin",
+        "updated_by": "alling2025",
+        "username": "alling2025",
+        "category": "Electronic",
+        "sub_category": "switches-wire,ac-cooler, chimney, refrigerator",
+        "description": "null",
+        "user_mode": "worker",
+        "feedbacks": [
+            {
+                "rating": "4",
+                "message": "nice but still improvement required",
+                "name": "Mansukh",
+                "mobile": "897867983"
+            },
+            {
+                "rating": "5",
+                "message": "good",
+                "name": "Roshan",
+                "mobile": "8792392393"
+            },
+            {
+                "rating": "4",
+                "message": "good service",
+                "name": "neelam",
+                "mobile": "8792392393"
+            }
+        ]
+    }
+]
